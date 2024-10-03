@@ -6781,6 +6781,7 @@
 ||spellen.ws^
 ||spellencentrum.nl^
 ||spelletjes.nl^
+||spelletjes.com^
 ||spelletjesplek.nl^
 ||spellforce.free.fr^
 ||spelo.se^
