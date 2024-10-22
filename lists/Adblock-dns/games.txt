@@ -1327,6 +1327,7 @@
 ||crazybone.com^
 ||crazyjeux.com^
 ||crazygames.nl^
+||crazygames.com^
 ||crazymonkeys.com^
 ||creativo.fr^
 ||creaturz.com^
